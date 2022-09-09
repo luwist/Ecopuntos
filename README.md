@@ -1,2 +1,3 @@
 # Ecopuntos
-Primer proyecto
+![Captura de la web Ecopuntos](/images/ecopuntos.jpeg)
+
